@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the gentry and commons of the county of Yorke presented to His Majesty at York, April 22. 1642. And His Majesties message sent to the Parliament, April 24. 1642. Concerning Sir Iohn Hothams refusall to give His Majestie entrance into Hull.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45028</idno>
+            <idno type="STC">Wing H3504A</idno>
+            <idno type="STC">ESTC R221335</idno>
+            <idno type="EEBO-CITATION">99832660</idno>
+            <idno type="PROQUEST">99832660</idno>
+            <idno type="VID">37134</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37134)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2148:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the gentry and commons of the county of Yorke presented to His Majesty at York, April 22. 1642. And His Majesties message sent to the Parliament, April 24. 1642. Concerning Sir Iohn Hothams refusall to give His Majestie entrance into Hull.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W.J.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the yeare, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  17th century --  Sources --  Early works to 1800.</term>
+               <term>Hull (England) --  History --  Siege, 1642 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37134:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>THE HUMBLE PETITION OF The Gentry and Commons of the County of <hi>Yorke,</hi> preſented to His Majeſty at <hi>York,</hi> April 22. 1642. AND <hi>His</hi> MAI ESTIES <hi>Meſſage</hi> ſent to the Parliament, <hi>April</hi> 24. 1642.</p>
+            <p>Concerning Sir <hi>Iohn Hothams</hi> Refuſall to give His Majeſtie Entrance into <hi>Hull.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. J.</hi> in the yeare, 1642.</p>
+            <pb facs="tcp:37134:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <pb facs="tcp:37134:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:37134:3"/>
+            <!-- PDF PAGE 51 -->
+            <pb n="1" facs="tcp:37134:3"/>
+            <!-- PDF PAGE 51 -->
+            <head>To the Kings moſt Excellent <hi>Majestie.</hi>
+            </head>
+            <head type="sub">The humble Petition of the Gentry and Com<g ref="char:EOLhyphen"/>mons of the County of <hi>Yorke.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Royall Soveraigne.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">E</seg>Ncouraged by Your Maje<g ref="char:EOLhyphen"/>ſties many Teſtimonies of Your Gratious Goodneſſe to us and our Countie, which we can never Sufficiently acknowledge we in all duty and Loyalty of heart addreſſe our Selves to Your Sacred Ma<g ref="char:EOLhyphen"/>jeſtie, beſeeching You to caſt Your eyes and thoughts upon the Safetie of Your own Per<g ref="char:EOLhyphen"/>ſon and Your Princely Iſſue, and this whole Countie, a great meanes of which we concieve doth conſiſt in the Armes and Ammunition at <hi>Hull,</hi> placed there by Your Princely care and charge, and ſince upon Generall appre<g ref="char:EOLhyphen"/>henſion of dangers from Forreigne parts repreſen<g ref="char:EOLhyphen"/>ted
+<pb n="2" facs="tcp:37134:4"/>
+               <!-- PDF PAGE 52 -->to your Maieſtie, thought fit as yet to be continued. We for our parts, conceiving our ſelves to be ſtill in danger, do moſt humbly be<g ref="char:EOLhyphen"/>ſeech your Maieſty that you wil be pleaſed to take ſuch courſe and order that your Magazine may ſtill there remaine, for the better ſecuring of theſe and the reſt of the Northerne parts: And the ra<g ref="char:EOLhyphen"/>ther becauſe we thinke it fit, that that part of the Kingdome ſhould be beſt provided where your Sacred Perſon doth reſide, your Perſon being like DAVIDS, the light of Iſrael, and more worth then ten thouſand of us.</p>
+            <closer>Who ſhall daily pray &amp;c.</closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:37134:4"/>
+            <!-- PDF PAGE 52 -->
+            <head>¶ His Majeſties Meſſage ſent to the <hi>Parlia<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent,</hi> 
+               <date>April 24. 1642.</date>
+            </head>
+            <head type="sub">Concerning Sir <hi>John Hotham</hi>'s Refuſall to give His Majeſty Entrance into <hi>Hull</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Maieſtie having re<g ref="char:EOLhyphen"/>ceived the Petition in<g ref="char:EOLhyphen"/>cloſed from moſt of the chief of the Gentry neer about <hi>York,</hi> deſiring the ſtay of his Maieſties Arms and Munition in His Magazine at <hi>Hull,</hi> for the ſafe<g ref="char:EOLhyphen"/>ty (not onely of His Maieſties Per<g ref="char:EOLhyphen"/>ſon and Children, but likewiſe of all theſe Northern parts: The mani<g ref="char:EOLhyphen"/>fold rumours of great Dangers inducing them to make their ſaid Supplication) Thought it moſt fit to go Himſelf in Per<g ref="char:EOLhyphen"/>ſon to his Town of <hi>Hull,</hi> to view His Arms and Munition there, that there<g ref="char:EOLhyphen"/>upon he might give Directions, what part thereof might be neceſſary to re<g ref="char:EOLhyphen"/>main
+<pb n="4" facs="tcp:37134:5"/>
+               <!-- PDF PAGE 53 -->there, for the ſecurity and ſatisfa<g ref="char:EOLhyphen"/>ction of His Northern Subiects, and what part thereof might be ſpared for <hi>Ireland.</hi> The Arming of His Maieſties Scots Subiects that are to go thither, Or to repleniſh his chiefeſt Magazine of the Tower of <hi>London,</hi> Where being come, upon the three and twentieth of this in<g ref="char:EOLhyphen"/>ſtant Aprill, much contrary to his ex<g ref="char:EOLhyphen"/>pectation, He found all the Gates ſhut upon him and the Bridges drawn up, by the expreſſe command of Sir <hi>Iohn Ho<g ref="char:EOLhyphen"/>tham,</hi> (who for the preſent commands a Garriſon there) and from the Walls flatly denied his Maieſtie Entrance into his ſaid Town, the reaſon of the ſaid de<g ref="char:EOLhyphen"/>niall being as ſtrange to his Maieſtie, as the thing it ſelf, It being, That he could not admit His Maieſtie without breach of Truſt to his Parliament; which did the more incenſe his Maieſties anger againſt him, for that he moſt Seditiouſly and Traiterouſly would have put his diſobedience upon his Maieſties parlia<g ref="char:EOLhyphen"/>ment; which his Maieſtie being willing
+<pb n="5" facs="tcp:37134:5"/>
+               <!-- PDF PAGE 53 -->to clear, demanded of him if he had the impudence to aver, that the Parliament had directed him to deny his Maieſtie en<g ref="char:EOLhyphen"/>trance, and that if he had any ſuch Or<g ref="char:EOLhyphen"/>der, that he ſhould ſhew it in Writing, for otherwiſe his Maieſtie could not beleeve it; which he could no wayes produce, but maliciouſly made that falſe interpretati<g ref="char:EOLhyphen"/>on according to his own Inferences con<g ref="char:EOLhyphen"/>feſſing that he had no ſuch poſitive Order, which his Maieſtie was ever confident of: But his Maieſtie not willing to take ſo much-pains in vain offered to come in<g ref="char:EOLhyphen"/>to that his Town onely with twentie Horſe, finding that the maine of his pre<g ref="char:EOLhyphen"/>tence lay, That his Maieſties Traine was able to Command the Garriſon: Notwithſtanding, his Maieſtie was ſo deſirous to go thither in a private way, that he gave warning thereof but over<g ref="char:EOLhyphen"/>night; Which he refuſing, but by way of Condition (which his Maieſtie thought much below him) held it moſt neceſſarie to declare him Traitour) unleſſe upon better thoughts, he ſhould yeeld obedi<g ref="char:EOLhyphen"/>ence)
+<pb n="6" facs="tcp:37134:6"/>
+               <!-- PDF PAGE 54 -->which he doubly deſerved aſwell for refuſing Entrance to his naturall Sove<g ref="char:EOLhyphen"/>raign, as by laying the reaſon the reof groundleſly and maliciouſly upon his Parliament.</p>
+            <p>One Circumſtance His Maieſty can<g ref="char:EOLhyphen"/>not forget, That his Son the Duke of <hi>York,</hi> and his Nephew the Prince <hi>Elector,</hi> having gone thither the day before, Sir <hi>John Hotham</hi> delayed the letting of them out to his Maieſtie till after ſome Con<g ref="char:EOLhyphen"/>ſultation.</p>
+            <p>Hereupon His Maieſtie hath thought it expedient to demaund Iuſtice of his Parliament againſt the ſaid Sir <hi>John Hotham,</hi> to be exemplarily inflicted one him according to the Laws, and the ra<g ref="char:EOLhyphen"/>ther, becauſe his Maieſtie would give them a fit occaſion to free themſelves of this imputation, by him ſo injuriouſly caſt upon them, to the end His maie<g ref="char:EOLhyphen"/>ſtie may have the eaſier way for the chaſtiſing of ſo high a diſobedience.</p>
+            <pb facs="tcp:37134:6"/>
+            <!-- PDF PAGE 54 -->
+         </div>
+      </body>
+   </text>
+</TEI>
